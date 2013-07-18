@@ -1,4 +1,6 @@
-Matrix-Fourier-Algorithm
-========================
+## Matrix Fourier Algorithm
 
-Test scripts experimenting with MFA variations for decomposing 1-d FFTs of lengths n = R C 
+<br/>
+A few simple MATLAB scripts experimenting with MFA variations for decomposing 1-dimensional FFTs of lengths n = R C (i.e. row column)
+
+The primary motivation for this work is to explore options for optimizating the computation of very large FFTs (larger than say 2^24)
